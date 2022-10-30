@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  
+  <PropertyGroup>
+    <__ApiVersion>V100</__ApiVersion>
+  </PropertyGroup>
+
+  <Import Project="../ApiConsumer.Common/ApiConsumer.props" />
+
+</Project>

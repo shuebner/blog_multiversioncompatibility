@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  
+  <PropertyGroup>
+    <__ApiVersion>V110</__ApiVersion>
+    <DefineConstants>$(DefineConstants);V110_OR_GREATER</DefineConstants>
+  </PropertyGroup>
+
+  <Import Project="../ApiConsumer.Common/ApiConsumer.props" />
+
+</Project>
